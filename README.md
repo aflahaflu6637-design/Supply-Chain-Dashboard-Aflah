@@ -53,19 +53,4 @@ To identify bottlenecks in the supply chain, improve On-Time Delivery rate, redu
 Power BI Intern Project  
 April 2026
 
----
 
-**How to use it:**
-
-1. Open **TextEdit** on your Mac.
-2. Go to **Format → Make Plain Text**.
-3. Paste the entire text above.
-4. Save as: `README.md` (make sure the extension is `.md`, not `.txt`).
-
-Would you like me to make any changes to this README before you save it?
-
-Or is this version fine?
-
-Just say **"This is good"** or tell me what you want to add/remove. 
-
-After that, we can finalize the folder and GitHub push.
