@@ -52,20 +52,3 @@ Power BI Intern Project
 April 2026
 
 ---
-
-**How to Use:**
-1. Copy all the above text.
-2. Open Notepad (or any text editor).
-3. Paste the content.
-4. Save the file as **`README.md`** (make sure the extension is `.md`, not `.txt`).
-
-Would you like me to make any changes to this README (add/remove anything)?
-
-Or are you fully satisfied with this version?
-
-Just reply:
-- **"This is good"** → We can finalize everything.
-- **"Modify README"** → Tell me what you want to change.
-
-You're almost done!  
-Let me know.
